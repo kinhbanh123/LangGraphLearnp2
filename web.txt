@@ -1,2 +1,0 @@
-https://app.tavily.com/home
-https://smith.langchain.com
